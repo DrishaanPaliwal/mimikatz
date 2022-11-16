@@ -1,6 +1,6 @@
-/*	Benjamin DELPY `gentilkiwi`
-	https://blog.gentilkiwi.com
-	benjamin@gentilkiwi.com
+/*	Drishaan DELPY `anonymous.html`
+	https://blog.anonymous.com
+	gauranshchatterjee066@gmail.com
 	Licence : https://creativecommons.org/licenses/by/4.0/
 */
 #include "kuhl_m_misc_citrix.h"
